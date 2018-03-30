@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_server_url">http://18.218.63.123:80/parse</string>
+    <string name="parse_app_id">40b345a7b4e346d043b60c15b7d40b26168cb72e</string>
+    <string name="parse_client_key">627e61b3b09219f99516acde69fda3391bcb7ec4</string>
+
+    <string name="app_name">Campus Market</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_maps">Set a Location</string>
+    <string name="title_activity_goods_view">goodsViewActivity</string>
+    <string name="title_activity_view_location">Map</string>
+</resources>

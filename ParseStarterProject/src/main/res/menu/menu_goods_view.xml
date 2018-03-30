@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Sale item" android:id="@+id/saleItem" />
+    <item android:title="Request item" android:id="@+id/requestItem" />
+    <item android:title="View my sale/request" android:id="@+id/viewMySaleRequest" />
+    <item android:title="View chat history" android:id="@+id/viewChat" />
+    <item android:title="Logout" android:id="@+id/logout" />
+
+</menu>
